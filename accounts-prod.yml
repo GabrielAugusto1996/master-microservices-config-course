@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to GIT PROD EazyBank accounts related local APIs!"
+  message: "Welcome to GIT PROD EazyBank accounts related local APIs!!!"
   contactDetails:
     name: "John Doe"
     email: "{cipher}d0387d54ffe815c67ccb337582583ec94372402134c19d78cedb9e532d95276c75047fa002ab3c987afbd55f9aacf475"
