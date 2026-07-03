@@ -2,7 +2,7 @@ accounts:
   message: "Welcome to GIT PROD EazyBank accounts related local APIs"
   contactDetails:
     name: "John Doe"
-    email: "d0387d54ffe815c67ccb337582583ec94372402134c19d78cedb9e532d95276c75047fa002ab3c987afbd55f9aacf475"
+    email: "{cipher}d0387d54ffe815c67ccb337582583ec94372402134c19d78cedb9e532d95276c75047fa002ab3c987afbd55f9aacf475"
   onCallSupport:
     - (555) 555-1234
     - (555) 555-1235
